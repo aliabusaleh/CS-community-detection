@@ -6,3 +6,5 @@ community
 python-louvain
 leidenalg
 umap-learn
+node2vec
+scikit-learn
